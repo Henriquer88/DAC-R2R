@@ -140,3 +140,8 @@ int main()
 
 ```
 ![Triangular_8bits](https://user-images.githubusercontent.com/60757810/140939580-6ff8c0c6-4798-4786-80c9-786387e3bedf.PNG)
+
+ ## Senoide - 8 bits
+![Senoide_8bits](https://user-images.githubusercontent.com/60757810/140941434-d6d28df8-6f7c-4273-91bc-92859f62ac02.PNG)
+
+
